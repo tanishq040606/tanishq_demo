@@ -1,3 +1,4 @@
 # tanishq_demo
-This is my git repository
-Author- Tanishq Mummidi
+This is My Git Repository.
+<br>
+Author - Tanishq Mummidi
